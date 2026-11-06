@@ -1,0 +1,193 @@
+﻿Mois,Medicament,Stock_initial,Approvisionnement,Stock_final
+2024-01,Paracétamol,264,162,306
+2024-02,Paracétamol,306,138,316
+2024-03,Paracétamol,316,138,324
+2024-04,Paracétamol,324,162,352
+2024-05,Paracétamol,352,138,359
+2024-06,Paracétamol,359,138,363
+2024-07,Paracétamol,363,162,399
+2024-08,Paracétamol,399,138,414
+2024-09,Paracétamol,414,90,383
+2024-10,Paracétamol,383,162,423
+2024-11,Paracétamol,423,138,439
+2024-12,Paracétamol,439,138,448
+2025-01,Paracétamol,448,162,478
+2025-02,Paracétamol,478,138,472
+2025-03,Paracétamol,472,138,465
+2025-04,Paracétamol,465,162,478
+2025-05,Paracétamol,478,138,467
+2025-06,Paracétamol,467,138,457
+2025-07,Paracétamol,457,162,478
+2025-08,Paracétamol,478,138,478
+2025-09,Paracétamol,478,138,484
+2025-10,Paracétamol,484,162,509
+2025-11,Paracétamol,509,138,512
+2025-12,Paracétamol,512,138,508
+2024-01,Amoxicilline,165,101,189
+2024-02,Amoxicilline,189,86,198
+2024-03,Amoxicilline,198,86,203
+2024-04,Amoxicilline,203,101,225
+2024-05,Amoxicilline,225,86,226
+2024-06,Amoxicilline,226,86,232
+2024-07,Amoxicilline,232,101,253
+2024-08,Amoxicilline,253,86,260
+2024-09,Amoxicilline,260,86,266
+2024-10,Amoxicilline,266,101,290
+2024-11,Amoxicilline,290,86,296
+2024-12,Amoxicilline,296,86,302
+2025-01,Amoxicilline,302,101,315
+2025-02,Amoxicilline,315,86,314
+2025-03,Amoxicilline,314,86,310
+2025-04,Amoxicilline,310,101,320
+2025-05,Amoxicilline,320,86,312
+2025-06,Amoxicilline,312,86,308
+2025-07,Amoxicilline,308,101,319
+2025-08,Amoxicilline,319,86,319
+2025-09,Amoxicilline,319,86,315
+2025-10,Amoxicilline,315,101,330
+2025-11,Amoxicilline,330,86,327
+2025-12,Amoxicilline,327,86,322
+2024-01,Ibuprofène,143,88,167
+2024-02,Ibuprofène,167,75,173
+2024-03,Ibuprofène,173,75,180
+2024-04,Ibuprofène,180,88,194
+2024-05,Ibuprofène,194,75,199
+2024-06,Ibuprofène,199,75,204
+2024-07,Ibuprofène,204,88,224
+2024-08,Ibuprofène,224,75,231
+2024-09,Ibuprofène,231,75,242
+2024-10,Ibuprofène,242,88,264
+2024-11,Ibuprofène,264,75,275
+2024-12,Ibuprofène,275,75,279
+2025-01,Ibuprofène,279,88,297
+2025-02,Ibuprofène,297,75,298
+2025-03,Ibuprofène,298,75,297
+2025-04,Ibuprofène,297,88,305
+2025-05,Ibuprofène,305,75,304
+2025-06,Ibuprofène,304,75,302
+2025-07,Ibuprofène,302,88,318
+2025-08,Ibuprofène,318,75,318
+2025-09,Ibuprofène,318,75,324
+2025-10,Ibuprofène,324,88,342
+2025-11,Ibuprofène,342,75,346
+2025-12,Ibuprofène,346,75,345
+2024-01,Metformine,198,122,229
+2024-02,Metformine,229,103,242
+2024-03,Metformine,242,103,248
+2024-04,Metformine,248,122,275
+2024-05,Metformine,275,103,282
+2024-06,Metformine,282,103,289
+2024-07,Metformine,289,122,313
+2024-08,Metformine,313,103,321
+2024-09,Metformine,321,103,328
+2024-10,Metformine,328,122,356
+2024-11,Metformine,356,103,359
+2024-12,Metformine,359,103,364
+2025-01,Metformine,364,122,384
+2025-02,Metformine,384,103,382
+2025-03,Metformine,382,103,376
+2025-04,Metformine,376,122,391
+2025-05,Metformine,391,103,384
+2025-06,Metformine,384,103,380
+2025-07,Metformine,380,122,391
+2025-08,Metformine,391,103,388
+2025-09,Metformine,388,103,384
+2025-10,Metformine,384,122,398
+2025-11,Metformine,398,103,390
+2025-12,Metformine,390,103,383
+2024-01,Amlodipine,121,74,142
+2024-02,Amlodipine,142,63,146
+2024-03,Amlodipine,146,63,153
+2024-04,Amlodipine,153,74,169
+2024-05,Amlodipine,169,63,174
+2024-06,Amlodipine,174,63,176
+2024-07,Amlodipine,176,74,192
+2024-08,Amlodipine,192,63,195
+2024-09,Amlodipine,195,63,201
+2024-10,Amlodipine,201,74,213
+2024-11,Amlodipine,213,63,217
+2024-12,Amlodipine,217,63,219
+2025-01,Amlodipine,219,74,231
+2025-02,Amlodipine,231,63,229
+2025-03,Amlodipine,229,63,229
+2025-04,Amlodipine,229,74,237
+2025-05,Amlodipine,237,63,236
+2025-06,Amlodipine,236,63,230
+2025-07,Amlodipine,230,74,239
+2025-08,Amlodipine,239,63,236
+2025-09,Amlodipine,236,63,233
+2025-10,Amlodipine,233,74,239
+2025-11,Amlodipine,239,63,236
+2025-12,Amlodipine,236,63,230
+2024-01,Oméprazole,154,94,175
+2024-02,Oméprazole,175,80,184
+2024-03,Oméprazole,184,80,190
+2024-04,Oméprazole,190,94,209
+2024-05,Oméprazole,209,80,212
+2024-06,Oméprazole,212,80,218
+2024-07,Oméprazole,218,94,237
+2024-08,Oméprazole,237,80,246
+2024-09,Oméprazole,246,80,250
+2024-10,Oméprazole,250,94,272
+2024-11,Oméprazole,272,80,278
+2024-12,Oméprazole,278,80,282
+2025-01,Oméprazole,282,94,296
+2025-02,Oméprazole,296,80,296
+2025-03,Oméprazole,296,80,292
+2025-04,Oméprazole,292,94,304
+2025-05,Oméprazole,304,80,297
+2025-06,Oméprazole,297,80,294
+2025-07,Oméprazole,294,94,305
+2025-08,Oméprazole,305,80,303
+2025-09,Oméprazole,303,80,300
+2025-10,Oméprazole,300,94,314
+2025-11,Oméprazole,314,80,311
+2025-12,Oméprazole,311,80,309
+2024-01,Fer + acide folique,187,115,218
+2024-02,Fer + acide folique,218,98,228
+2024-03,Fer + acide folique,228,98,235
+2024-04,Fer + acide folique,235,115,255
+2024-05,Fer + acide folique,255,98,261
+2024-06,Fer + acide folique,261,98,266
+2024-07,Fer + acide folique,266,115,293
+2024-08,Fer + acide folique,293,98,299
+2024-09,Fer + acide folique,299,98,311
+2024-10,Fer + acide folique,311,115,338
+2024-11,Fer + acide folique,338,98,347
+2024-12,Fer + acide folique,347,98,351
+2025-01,Fer + acide folique,351,115,371
+2025-02,Fer + acide folique,371,98,368
+2025-03,Fer + acide folique,368,98,365
+2025-04,Fer + acide folique,365,115,373
+2025-05,Fer + acide folique,373,98,367
+2025-06,Fer + acide folique,367,98,362
+2025-07,Fer + acide folique,362,115,376
+2025-08,Fer + acide folique,376,98,373
+2025-09,Fer + acide folique,373,98,374
+2025-10,Fer + acide folique,374,115,390
+2025-11,Fer + acide folique,390,98,391
+2025-12,Fer + acide folique,391,98,383
+2024-01,SRO,220,135,255
+2024-02,SRO,255,115,264
+2024-03,SRO,264,115,266
+2024-04,SRO,266,135,289
+2024-05,SRO,289,115,291
+2024-06,SRO,291,115,300
+2024-07,SRO,300,135,330
+2024-08,SRO,330,115,349
+2024-09,SRO,349,115,372
+2024-10,SRO,372,135,416
+2024-11,SRO,416,115,436
+2024-12,SRO,436,115,454
+2025-01,SRO,454,135,483
+2025-02,SRO,483,115,488
+2025-03,SRO,488,115,483
+2025-04,SRO,483,135,500
+2025-05,SRO,500,69,452
+2025-06,SRO,452,115,454
+2025-07,SRO,454,135,480
+2025-08,SRO,480,115,495
+2025-09,SRO,495,115,512
+2025-10,SRO,512,135,554
+2025-11,SRO,554,115,569
+2025-12,SRO,569,115,582

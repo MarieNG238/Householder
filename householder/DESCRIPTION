@@ -1,0 +1,14 @@
+Package: Householder
+Title: Construction et Utilisation des Matrices de Householder
+Version: 1.0.0
+Authors@R: person("Marie", "NGON", email="mariengonndag@gmail.com", role = c("aut", "cre"))
+Description: Provides functions for constructing Householder vectors
+    and matrices, applying reflections, checking mathematical
+    properties, performing QR factorization and solving
+    least squares problems.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
